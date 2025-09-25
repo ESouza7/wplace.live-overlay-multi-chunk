@@ -344,9 +344,10 @@
     });
 
     function fetchData() {
-        return fetch("https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/imagens.js?" + Date.now())
+        return fetch("https://raw.githubusercontent.com/ESouza7/wplace.live-overlay-multi-chunk/refs/heads/main/imagens.js?" + Date.now())
             .then(res => res.json());
     }
+
 
     function blobToImage(blob){
         return new Promise((resolve,reject)=>{
