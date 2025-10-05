@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wplace Overlay Multi-chunk + HUD By Zary
 // @namespace    http://tampermonkey.net/
-// @version      0.7.7
+// @version      0.7.9
 // @description  Overlay multi-chunk para Wplace.live com HUD, seletor de overlay, botão "Ir para Overlay" e filtro de cores faltantes.
 // @author       Zary
 // @match        https://wplace.live/*
@@ -31,9 +31,10 @@
         "Evil Morty",
         "Evil Morty 2",
         "Anti-Comuna",
-        "Anti-Comuna 2",
+        "Yellow space",
         "Sonic",
-        "Creative Space"
+        "Creative Space",
+        "Mini Cristo"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
@@ -42,9 +43,10 @@
         { lat: -24.1511, lng: -46.0176 },
         { lat: -26.3508, lng: -45.8199 },
         { lat: -23.7265, lng: -47.1685 },
-        { lat: -23.6777, lng: -47.1396 },
+        { lat: -23.7276, lng: -46.8653 },
         { lat: -23.6880, lng: -46.9285 },
-        { lat: -23.5834, lng: -46.9270 }
+        { lat: -23.5834, lng: -46.9270 },
+        { lat: -23.6679, lng: -46.8382 }
     ];
 
     function resetProgress() {
@@ -344,10 +346,9 @@
     });
 
     function fetchData() {
-        return fetch("https://raw.githubusercontent.com/ESouza7/wplace.live-overlay-multi-chunk/refs/heads/main/imagens.js?" + Date.now())
+        return fetch("https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/imagens.js?" + Date.now())
             .then(res => res.json());
     }
-
 
     function blobToImage(blob){
         return new Promise((resolve,reject)=>{
