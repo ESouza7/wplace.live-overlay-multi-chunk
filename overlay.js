@@ -25,10 +25,12 @@
     const selectedColors = []; // filtro de cores
 
     const overlayNames = [
-        "Onça",
         "Brasil Imperial Principal e Secundaria",
-        "Brasil Imperial",
         "Brasil Imperial Secundaria",
+        "Onça",        
+        "Pardo Moggada",
+        "Brasil Imperial",
+        "Evil Morty",
         "Evil Morty 2",
         "Anti-Comuna",
         "Yellow space",
