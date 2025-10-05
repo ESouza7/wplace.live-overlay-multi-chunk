@@ -26,9 +26,9 @@
 
     const overlayNames = [
         "Onça",
-        "Pardo Moggada",
+        "Brasil Imperial Principal e Secundaria",
         "Brasil Imperial",
-        "Evil Morty",
+        "Brasil Imperial Secundaria",
         "Evil Morty 2",
         "Anti-Comuna",
         "Yellow space",
