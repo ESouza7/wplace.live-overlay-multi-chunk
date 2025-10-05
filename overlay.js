@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Wplace Overlay Multi-chunk + HUD By Zary
+// @name         Esouza Wplace Overlay Multi-chunk + HUD By Zary
 // @namespace    http://tampermonkey.net/
 // @version      0.7.9
 // @description  Overlay multi-chunk para Wplace.live com HUD, seletor de overlay, botão "Ir para Overlay" e filtro de cores faltantes.
