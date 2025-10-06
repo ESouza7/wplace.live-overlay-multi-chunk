@@ -25,8 +25,6 @@
     const selectedColors = []; // filtro de cores
 
     const overlayNames = [
-        "Brasil Imperial Principal e Secundaria",
-        "Brasil Imperial Secundaria",
         "Onça",        
         "Pardo Moggada",
         "Brasil Imperial",
@@ -36,7 +34,9 @@
         "Yellow space",
         "Sonic",
         "Creative Space",
-        "Mini Cristo"
+        "Mini Cristo",
+        "Brasil Imperial Principal e Secundaria",
+        "Brasil Imperial Secundaria"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
