@@ -38,7 +38,9 @@
         "Brasil Imperial Principal e Secundaria",
         "Brasil Imperial Secundaria",
         "Brasil Imperial Japão",
-        "Kitasan Black"
+        "Kitasan Black",
+        "Frieren",
+        "Matikanefukukitaru"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
