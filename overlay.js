@@ -28,8 +28,6 @@
         "Onça",        
         "Pardo Moggada",
         "Brasil Imperial",
-        "Evil Morty",
-        "Evil Morty 2",
         "Anti-Comuna",
         "Yellow space",
         "Sonic",
