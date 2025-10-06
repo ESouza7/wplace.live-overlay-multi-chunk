@@ -36,7 +36,8 @@
         "Creative Space",
         "Mini Cristo",
         "Brasil Imperial Principal e Secundaria",
-        "Brasil Imperial Secundaria"
+        "Brasil Imperial Secundaria",
+        "Brasil Imperial Japão"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
