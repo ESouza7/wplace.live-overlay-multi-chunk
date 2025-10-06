@@ -37,8 +37,7 @@
         "Mini Cristo",
         "Brasil Imperial Principal e Secundaria",
         "Brasil Imperial Secundaria",
-        "Brasil Imperial Japão",
-        "Kitasan Black"
+        "Brasil Imperial Japão"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
@@ -50,7 +49,7 @@
         { lat: -23.7276, lng: -46.8653 },
         { lat: -23.6880, lng: -46.9285 },
         { lat: -23.5834, lng: -46.9270 },
-        { lat: -23.6679, lng: -46.8382 } //Mini Cristo
+        { lat: -23.6679, lng: -46.8382 }
     ];
 
     function resetProgress() {
