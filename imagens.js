@@ -12,5 +12,7 @@
   { "url": "https://i.imgur.com/KibZ5YS.png", "chunk": [754, 1156], "coords": [795, 465] },
   { "url": "https://i.imgur.com/WcakOr1.png", "chunk": [758, 1156], "coords": [232, 502] },
   { "url": "https://i.imgur.com/G72vqiE.png", "chunk": [1818, 796], "coords": [206, 280] }, //japão
-  { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] } //kitasan
+  { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] }, //kitasan
+  { "url": "https://i.imgur.com/HvzD2N4.png", "chunk": [758, 1161], "coords": [162, 4] }, //frieren
+  { "url": "https://i.imgur.com/HkwrQ12.png", "chunk": [758, 1160], "coords": [817, 891] }, //matikanefukukitaru
 ]
