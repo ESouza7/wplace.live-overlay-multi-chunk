@@ -11,6 +11,6 @@
   { "url": "https://i.imgur.com/A6oUTlJ.png", "chunk": [757, 1162], "coords": [480, 553] },
   { "url": "https://i.imgur.com/KibZ5YS.png", "chunk": [754, 1156], "coords": [795, 465] },
   { "url": "https://i.imgur.com/WcakOr1.png", "chunk": [758, 1156], "coords": [232, 502] },
-  { "url": "https://i.imgur.com/G72vqiE.png", "chunk": [1818, 796], "coords": [206, 280] }, //brasil imperial japao
-  { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] } //kitasan
+  { "url": "https://i.imgur.com/G72vqiE.png", "chunk": [1818, 796], "coords": [206, 280] },
+  { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] }
 ]
