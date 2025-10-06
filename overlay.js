@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zarystore.net
 // @license      MIT
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/overlay.js
-// @downloadURL  https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/overlay.js
+// @updateURL    https://raw.githubusercontent.com/ESouza7/wplace.live-overlay-multi-chunk/refs/heads/main/overlay.js
+// @downloadURL  https://raw.githubusercontent.com/ESouza7/wplace.live-overlay-multi-chunk/refs/heads/main/overlay.js
 // ==/UserScript==
 
 
@@ -28,6 +28,8 @@
         "Onça",        
         "Pardo Moggada",
         "Brasil Imperial",
+        "Evil Morty",
+        "Evil Morty 2",
         "Anti-Comuna",
         "Yellow space",
         "Sonic",
