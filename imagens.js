@@ -9,7 +9,7 @@
   { "url": "https://i.imgur.com/dnqVhmq.png", "chunk": [756, 1162], "coords": [885, 661] },
   { "url": "https://i.imgur.com/fqeR2Vo.png", "chunk": [756, 1161], "coords": [602, 942] },
   { "url": "https://i.imgur.com/A6oUTlJ.png", "chunk": [757, 1162], "coords": [480, 553] },
-  { "url": "https://i.ibb.co/JFWH451N/converted-template-base-principal-e-secundaria.png", "chunk": [754, 1156], "coords": [795, 465] },
+  { "url": "https://i.ibb.co/JFWH451N/converted-template-base-principal-e-secundaria.png", "chunk": [754, 1156], "coords": [245, 465] },
   { "url": "https://i.imgur.com/WcakOr1.png", "chunk": [758, 1156], "coords": [232, 502] },
   { "url": "https://i.imgur.com/G72vqiE.png", "chunk": [1818, 796], "coords": [206, 280] },
   { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] }
