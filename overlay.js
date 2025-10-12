@@ -27,7 +27,7 @@
     const overlayNames = [
         "Onça",        
         "Pardo Moggada",
-        "Brasil Imperial",
+        "Brasil Imperial(Desatualizado)",
         "Evil Morty",
         "Evil Morty 2",
         "Anti-Comuna",
@@ -36,7 +36,7 @@
         "Creative Space",
         "Mini Cristo",
         "Brasil Imperial Principal e Secundaria",
-        "Brasil Imperial Secundaria",
+        "Brasil Imperial Secundaria(Desatualizado)",
         "Brasil Imperial Japão",
         "Kitasan Black",
         "Bob Esponja"
