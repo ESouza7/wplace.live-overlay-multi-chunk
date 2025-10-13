@@ -36,7 +36,7 @@
         "Creative Space",
         "Mini Cristo",
         "Brasil Imperial Principal e Secundaria",
-        "Brasil Imperial Petrópolis"
+        "Brasil Imperial Petrópolis",
         "Brasil Imperial Secundaria(Desatualizado)",
         "Brasil Imperial Japão",
         "Kitasan Black",
