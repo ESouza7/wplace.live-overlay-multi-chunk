@@ -52,7 +52,9 @@
         { lat: -23.7276, lng: -46.8653 },
         { lat: -23.6880, lng: -46.9285 },
         { lat: -23.5834, lng: -46.9270 },
-        { lat: -23.6679, lng: -46.8382 } //mini cristo
+        { lat: -23.6679, lng: -46.8382 }, //mini cristo
+        { lat: -23.4968, lng: -47.0192 },
+        { lat: -22.5089, lng: -43.1814 }
     ];
 
     function resetProgress() {
