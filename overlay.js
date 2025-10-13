@@ -56,7 +56,7 @@
         { lat: -23.4968, lng: -47.0192 }, //imperial
         { lat: -22.5089, lng: -43.1814 }, //imperial petropópolis
         { lat: -22.6861, lng: -46.4260 }, //imperial secundára
-        { lat: 37.0187, lng: 139.4692 }, //imperial japão
+        { lat: 37.0877, lng: 139.6609 }, //imperial japão
         { lat: -23.3803, lng: -46.9073 }, //kitasan
         { lat: -23.6160, lng: -46.6831 } //bob 
     ];
