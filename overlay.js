@@ -40,7 +40,9 @@
         "Brasil Imperial Secundaria(Desatualizado)",
         "Brasil Imperial Japão",
         "Kitasan Black",
-        "Bob Esponja"
+        "Bob Esponja",
+        "Tanya",
+        "KIndred"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
