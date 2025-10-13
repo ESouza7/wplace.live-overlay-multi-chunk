@@ -42,7 +42,7 @@
         "Kitasan Black",
         "Bob Esponja",
         "Tanya",
-        "KIndred"
+        "Kindred"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
