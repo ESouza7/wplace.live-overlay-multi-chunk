@@ -53,10 +53,11 @@
         { lat: -23.6880, lng: -46.9285 },
         { lat: -23.5834, lng: -46.9270 },
         { lat: -23.6679, lng: -46.8382 }, //mini cristo
-        { lat: -23.4968, lng: -47.0192 },
-        { lat: -22.5089, lng: -43.1814 },
-        { lat: -23.4680, lng: -47.0147 },
-         
+        { lat: -23.4968, lng: -47.0192 }, //imperial
+        { lat: -22.5089, lng: -43.1814 }, //imperial petropópolis
+        { lat: -22.8907, lng: -46.4162 },
+        { lat: -23.3892, lng: -47.0004 },
+        { lat: -23.6160, lng: -46.6831 }
     ];
 
     function resetProgress() {
