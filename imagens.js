@@ -11,7 +11,7 @@
   { "url": "https://i.ibb.co/1Y4bjw6x/converted-template-base-principal-e-secundaria.png", "chunk": [754, 1156], "coords": [195, 465] },
   { "url": "https://i.imgur.com/83ZQmU6.png", "chunk": [778, 1155], "coords": [137, 323] },
   { "url": "https://i.imgur.com/G72vqiE.png", "chunk": [1818, 796], "coords": [206, 280] },
-  { "url": "https://i.imgur.com/71hovI5.png", "chunk": [1094, 675], "coords": [999, 920] },
+  { "url": "https://i.imgur.com/71hovI5.png", "chunk": [1094, 675], "coords": [999, 10] },
   { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] },
   { "url": "https://i.imgur.com/U187pqY.png", "chunk": [758, 1162], "coords": [338, 250] },
   { "url": "https://i.imgur.com/LCkJ9PX.png", "chunk": [756, 1160], "coords": [448, 297] },
