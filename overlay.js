@@ -42,7 +42,8 @@
         "Bob Esponja",
         "Tanya",
         "Kindred",
-        "Utena"
+        "Utena",
+        "São Bernardo FC"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
