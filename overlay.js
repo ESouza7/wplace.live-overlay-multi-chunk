@@ -43,7 +43,8 @@
         "Tanya",
         "Kindred",
         "Utena",
-        "São Bernardo FC"
+        "São Bernardo FC",
+        "Frieren"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
