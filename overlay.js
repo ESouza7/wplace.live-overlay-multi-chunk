@@ -56,7 +56,7 @@
         { lat: -23.6679, lng: -46.8382 }, //mini cristo
         { lat: -23.4968, lng: -47.0192 }, //imperial
         { lat: -22.5089, lng: -43.1814 }, //imperial petropópolis
-        { lat: 52.0282, lng: 12.6948 }, //alido alemanha
+        { lat: 52.0282, lng: 12.6948 }, //aliado alemanha
         { lat: 37.0877, lng: 139.6609 }, //imperial japão
         { lat: -23.3822, lng: -46.9128 }, //kitasan
         { lat: -23.6160, lng: -46.6831 } //bob
