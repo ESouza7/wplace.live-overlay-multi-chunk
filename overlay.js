@@ -47,7 +47,6 @@
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
         { lat: -23.0914, lng: -46.0435 },
-        { lat: -23.4968, lng: -47.0192 },
         { lat: -24.1511, lng: -46.0176 },
         { lat: -26.3508, lng: -45.8199 },
         { lat: -23.7265, lng: -47.1685 },
@@ -57,7 +56,6 @@
         { lat: -23.6679, lng: -46.8382 }, //mini cristo
         { lat: -23.4968, lng: -47.0192 }, //imperial
         { lat: -22.5089, lng: -43.1814 }, //imperial petropópolis
-        { lat: -22.6861, lng: -46.4260 }, //imperial secundára
         { lat: 37.0877, lng: 139.6609 }, //imperial japão
         { lat: -23.3822, lng: -46.9128 }, //kitasan
         { lat: -23.6160, lng: -46.6831 } //bob 
