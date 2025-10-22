@@ -63,7 +63,10 @@
         { lat: 37.0960, lng: 139.6572 }, //imperial japão
         { lat: 52.0282, lng: 12.6948 }, //place patrioten
         { lat: -23.3784, lng: -46.9212 }, //kitasan
-        { lat: -23.6127, lng: -46.6812 } //bob
+        { lat: -23.6127, lng: -46.6812 }, //bob
+        { lat: -23.3082, lng: -46.9945 }, //tanya
+        { lat: -23.7904, lng: -46.9953 }, //utena
+        { lat: -23.7654, lng: -46.5735 } //são bernardo
     ];
 
     function resetProgress() {
