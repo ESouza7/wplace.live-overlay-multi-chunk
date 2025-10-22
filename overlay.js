@@ -46,7 +46,7 @@
         "São Bernardo FC",
         "Frieren",
         "Aihara e Tina",
-        "Fear and Hunger Suécia"
+        "Fear and Hunger Finlândia"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
