@@ -45,7 +45,8 @@
         "Utena",
         "São Bernardo FC",
         "Frieren",
-        "Aihara e Tina"
+        "Aihara e Tina",
+        "Fear and Hunger Suécia"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
