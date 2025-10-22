@@ -66,7 +66,11 @@
         { lat: -23.6127, lng: -46.6812 }, //bob
         { lat: -23.3082, lng: -46.9945 }, //tanya
         { lat: -23.7904, lng: -46.9953 }, //utena
-        { lat: -23.7654, lng: -46.5735 } //são bernardo
+        { lat: -23.7654, lng: -46.5735 }, //são bernardo
+        { lat: -23.4097, lng: -46.7190 }, //frieren
+        { lat: -23.2356, lng: -46.6060 }, //aihara e tina
+        { lat: 60.1602, lng: 25.0524 } //fear and hunger finlândia
+        
     ];
 
     function resetProgress() {
