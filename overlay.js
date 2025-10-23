@@ -46,7 +46,8 @@
         "São Bernardo FC",
         "Frieren",
         "Aihara e Tina",
-        "Fear and Hunger Finlândia"
+        "Fear and Hunger Finlândia",
+        "Artes Corinthians Japão"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
@@ -70,7 +71,8 @@
         { lat: -23.7654, lng: -46.5735 }, //são bernardo
         { lat: -23.4097, lng: -46.7190 }, //frieren
         { lat: -23.2356, lng: -46.6060 }, //aihara e tina
-        { lat: 60.1602, lng: 25.0524 } //fear and hunger finlândia
+        { lat: 60.1602, lng: 25.0524 }, //fear and hunger finlândia
+        { lat: 35.8227, lng: 139.5030 } //artes corinthians japão
         
     ];
 
