@@ -44,7 +44,7 @@
         "Kindred",
         "Utena",
         "São Bernardo FC",
-        "Frieren",
+        "Frieren e Matikanefukukitaru",
         "Aihara e Tina",
         "Fear and Hunger Finlândia",
         "Artes Corinthians Japão"
@@ -69,7 +69,7 @@
         { lat: -23.8153, lng: -46.6645 }, //kindred
         { lat: -23.7904, lng: -46.9953 }, //utena
         { lat: -23.7654, lng: -46.5735 }, //são bernardo
-        { lat: -23.4097, lng: -46.7190 }, //frieren
+        { lat: -23.4062, lng: -46.6562 }, //frieren e matikanefukukitaru
         { lat: -23.2356, lng: -46.6060 }, //aihara e tina
         { lat: 60.1602, lng: 25.0524 }, //fear and hunger finlândia
         { lat: 35.8227, lng: 139.5030 } //artes corinthians japão
