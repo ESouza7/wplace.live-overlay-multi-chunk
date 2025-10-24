@@ -41,7 +41,7 @@
         "Kitasan Black",
         "Bob Esponja",
         "Tanya",
-        "Kindred",
+        "(3)Kindred, Fear and Hunger, Garota",
         "(2) Utena, Shiro",
         "São Bernardo FC",
         "(2) Frieren, Matikanefukukitaru",
@@ -66,7 +66,7 @@
         { lat: -23.3784, lng: -46.9212 }, //kitasan
         { lat: -23.6127, lng: -46.6812 }, //bob
         { lat: -23.3082, lng: -46.9945 }, //tanya
-        { lat: -23.8153, lng: -46.6645 }, //kindred
+        { lat: -23.8600, lng: -46.6522 }, //kindred, fear and hunger e garota
         { lat: -23.8349, lng: -46.9691 }, //utena, shiro
         { lat: -23.7654, lng: -46.5735 }, //são bernardo
         { lat: -23.4062, lng: -46.6562 }, //frieren e matikanefukukitaru
