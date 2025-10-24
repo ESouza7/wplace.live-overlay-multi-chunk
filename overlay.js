@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Esouza Wplace Overlay Multi-chunk + HUD By Zary
 // @namespace    http://tampermonkey.net/
-// @version      0.7.12
+// @version      0.7.13
 // @description  Overlay multi-chunk para Wplace.live com HUD, seletor de overlay, botão "Ir para Overlay" e filtro de cores faltantes.
 // @author       Zary
 // @match        https://wplace.live/*
@@ -25,7 +25,7 @@
     const selectedColors = []; // filtro de cores
 
     const overlayNames = [
-        "Onça",        
+        "Onça",
         "Pardo Moggada",
         "Evil Morty",
         "Evil Morty 2",
@@ -397,7 +397,7 @@
     }
 
     function patchUI() {
-        const buttonContainer = document.querySelector("div.flex.flex-col.items-center:nth-child(1) > div:nth-child(2)");
+        const buttonContainer = document.querySelector("div.gap-4:nth-child(1) > div:nth-child(2)");
         if (!buttonContainer) return;
 
         // seletor overlay
