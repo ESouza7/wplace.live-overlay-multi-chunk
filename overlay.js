@@ -42,9 +42,9 @@
         "Bob Esponja",
         "Tanya",
         "Kindred",
-        "Utena",
+        "(2) Utena, Shiro",
         "São Bernardo FC",
-        "Frieren e Matikanefukukitaru",
+        "(2) Frieren, Matikanefukukitaru",
         "Aihara e Tina",
         "Fear and Hunger Finlândia",
         "Artes Corinthians Japão"
@@ -67,7 +67,7 @@
         { lat: -23.6127, lng: -46.6812 }, //bob
         { lat: -23.3082, lng: -46.9945 }, //tanya
         { lat: -23.8153, lng: -46.6645 }, //kindred
-        { lat: -23.7904, lng: -46.9953 }, //utena
+        { lat: -23.8349, lng: -46.9691 }, //utena, shiro
         { lat: -23.7654, lng: -46.5735 }, //são bernardo
         { lat: -23.4062, lng: -46.6562 }, //frieren e matikanefukukitaru
         { lat: -23.2356, lng: -46.6060 }, //aihara e tina
