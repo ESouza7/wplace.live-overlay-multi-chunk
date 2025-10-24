@@ -41,7 +41,7 @@
         "Kitasan Black",
         "Bob Esponja",
         "Tanya",
-        "(3)Kindred, Fear and Hunger, Garota",
+        "(3) Kindred, Fear and Hunger, Garota",
         "(2) Utena, Shiro",
         "São Bernardo FC",
         "(2) Frieren, Matikanefukukitaru",
