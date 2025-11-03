@@ -139,7 +139,8 @@
         "Aihara e Tina",
         "Fear and Hunger Finlândia",
         "Artes Corinthians Japão",
-        "Chunks"
+        "Chunks",
+        "Mega Bandeira Imperial Petrópolis"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
