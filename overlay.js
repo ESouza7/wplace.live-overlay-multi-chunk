@@ -138,7 +138,8 @@
         "(2) Frieren, Matikanefukukitaru",
         "Aihara e Tina",
         "Fear and Hunger Finlândia",
-        "Artes Corinthians Japão"
+        "Artes Corinthians Japão",
+        "Chunks"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
