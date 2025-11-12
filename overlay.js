@@ -167,7 +167,7 @@
         { lat: -23.2356, lng: -46.6060 }, //aihara e tina
         { lat: 60.1602, lng: 25.0524 }, //fear and hunger finlândia
         { lat: 35.8227, lng: 139.5030 }, //artes corinthians japão
-        { lat: -22.2688, lng: -43.1055 } //Mega bandeira Petrópolis
+        { lat: -22.2667, lng: -42.9988 } //Mega bandeira Petrópolis
     ];
 
     function resetProgress() {
