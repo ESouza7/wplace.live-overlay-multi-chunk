@@ -128,10 +128,11 @@
         "Brasil Imperial SP e Bragança",
         "Brasil Imperial Petrópolis",
         "Brasil Imperial Japão",
+        "Império Independente do Brasil",
         "Place Patrioten | Aliado Alemanha",
         "Kitasan Black",
-        "Bob Esponja",
         "Tanya",
+        "Bob Esponja",
         "(3) Kindred, Fear and Hunger, Garota",
         "(2) Utena, Shiro",
         "São Bernardo FC",
@@ -139,9 +140,7 @@
         "Aihara e Tina",
         "Fear and Hunger Finlândia",
         "Artes Corinthians Japão",
-        "Chunks",
-        "Mega Bandeira Imperial Petrópolis",
-        "Império Independente do Brasil"
+        "Mega Bandeira Imperial Petrópolis"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
@@ -153,13 +152,14 @@
         { lat: -23.6880, lng: -46.9285 },
         { lat: -23.5834, lng: -46.9270 },
         { lat: -23.6679, lng: -46.8382 }, //mini cristo
-        { lat: -23.4968, lng: -47.0192 }, //imperial
+        { lat: -23.4968, lng: -47.0192 }, //imperial sp e braganca
         { lat: -22.5089, lng: -43.1814 }, //imperial petropópolis
         { lat: 37.0960, lng: 139.6572 }, //imperial japão
+        { lat: -23.4342, lng: -47.9866 }, //Império Independente do Brasil
         { lat: 52.0282, lng: 12.6948 }, //place patrioten
         { lat: -23.3784, lng: -46.9212 }, //kitasan
-        { lat: -23.6127, lng: -46.6812 }, //bob
         { lat: -23.3082, lng: -46.9945 }, //tanya
+        { lat: -23.6127, lng: -46.6812 }, //bob
         { lat: -23.8600, lng: -46.6522 }, //kindred, fear and hunger e garota
         { lat: -23.8349, lng: -46.9691 }, //utena, shiro
         { lat: -23.7654, lng: -46.5735 }, //são bernardo
@@ -167,9 +167,7 @@
         { lat: -23.2356, lng: -46.6060 }, //aihara e tina
         { lat: 60.1602, lng: 25.0524 }, //fear and hunger finlândia
         { lat: 35.8227, lng: 139.5030 }, //artes corinthians japão
-        { lat: 0, lng: 0 }, //chunks
-        { lat: -22.2688, lng: -43.1055 }, //Mega bandeira Petrópolis
-        { lat: -23.4342, lng: -47.9866 } //Império Independente do Brasil
+        { lat: -22.2688, lng: -43.1055 } //Mega bandeira Petrópolis
     ];
 
     function resetProgress() {
