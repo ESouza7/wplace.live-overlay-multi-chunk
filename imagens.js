@@ -11,6 +11,7 @@
   { "url": "https://i.ibb.co/LX2QFPWx/converted-template-base-principal-e-secundaria.png", "chunk": [754, 1156], "coords": [195, 465] },
   { "url": "https://i.imgur.com/EaKbh4L.png", "chunk": [777, 1153], "coords": [204, 541] },
   { "url": "https://i.imgur.com/1cHbBEU.png", "chunk": [1818, 796], "coords": [202, 280] },
+  { "url": "https://i.imgur.com/hyAHrk0.png", "chunk": [750, 1160], "coords": [73, 688] },
   { "url": "https://i.imgur.com/71hovI5.png", "chunk": [1095, 675], "coords": [0, 0] },
   { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] },
   { "url": "https://i.imgur.com/LCkJ9PX.png", "chunk": [756, 1160], "coords": [448, 297] },
@@ -22,7 +23,6 @@
   { "url": "https://i.imgur.com/uIeBNGE.png", "chunk": [758, 1159], "coords": [744, 782] },
   { "url": "https://i.imgur.com/dv1f8PH.png", "chunk": [1166, 592], "coords": [389, 845] },
   { "url": "https://i.imgur.com/AQ67W2v.png", "chunk": [1817, 805], "coords": [494, 381] },
-  { "url": "https://i.imgur.com/kg8X2pR.png", "chunk": [778, 1153], "coords": [728, 564] },
-  { "url": "https://i.imgur.com/hyAHrk0.png", "chunk": [750, 1160], "coords": [73, 688] }
+  { "url": "https://i.imgur.com/kg8X2pR.png", "chunk": [778, 1153], "coords": [728, 564] }
   
 ]
