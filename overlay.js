@@ -140,7 +140,8 @@
         "Fear and Hunger Finlândia",
         "Artes Corinthians Japão",
         "Chunks",
-        "Mega Bandeira Imperial Petrópolis"
+        "Mega Bandeira Imperial Petrópolis",
+        "Império Independente do Brasil"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
@@ -167,7 +168,8 @@
         { lat: 60.1602, lng: 25.0524 }, //fear and hunger finlândia
         { lat: 35.8227, lng: 139.5030 }, //artes corinthians japão
         { lat: 0, lng: 0 }, //chunks
-        { lat: -22.2688, lng: -43.1055 } //Mega bandeira Petrópolis
+        { lat: -22.2688, lng: -43.1055 }, //Mega bandeira Petrópolis
+        { lat: -23.4342, lng: -47.9866 } //Império Independente do Brasil
     ];
 
     function resetProgress() {
