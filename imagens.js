@@ -10,7 +10,7 @@
   { "url": "https://i.imgur.com/A6oUTlJ.png", "chunk": [757, 1162], "coords": [480, 553] },
   { "url": "https://i.ibb.co/C55q0rG5/converted-template-base-principal-e-secundaria.png", "chunk": [754, 1156], "coords": [195, 465] },
   { "url": "https://i.imgur.com/EaKbh4L.png", "chunk": [777, 1153], "coords": [204, 541] },
-  { "url": "https://i.imgur.com/1cHbBEU.png", "chunk": [1818, 796], "coords": [202, 280] },
+  { "url": "https://i.imgur.com/3BrkIE5.png", "chunk": [1818, 796], "coords": [202, 280] },
   { "url": "https://i.imgur.com/hyAHrk0.png", "chunk": [750, 1160], "coords": [73, 688] },
   { "url": "https://i.imgur.com/71hovI5.png", "chunk": [1095, 675], "coords": [0, 0] },
   { "url": "https://i.imgur.com/BXdnCko.png", "chunk": [756, 1160], "coords": [989, 780] },
