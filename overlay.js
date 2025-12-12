@@ -140,7 +140,8 @@
         "Aihara e Tina",
         "Fear and Hunger Finlândia",
         "Artes Corinthians Japão",
-        "Mega Bandeira Imperial Petrópolis"
+        "Mega Bandeira Imperial Petrópolis",
+        "Cristo Redentor Petrópolis"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
